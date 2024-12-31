@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Code Crumbs</title>
+    <title>Posts on M4nihere</title>
     <link>https://codecrumbs.cloud/posts/</link>
-    <description>Recent content in Posts on Code Crumbs</description>
+    <description>Recent content in Posts on M4nihere</description>
     <image>
-      <title>Code Crumbs</title>
+      <title>M4nihere</title>
       <url>https://codecrumbs.cloud/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://codecrumbs.cloud/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2024 12:13:18 +0530</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://codecrumbs.cloud/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Important Key Points</title>
-      <link>https://codecrumbs.cloud/posts/important-key-points/</link>
-      <pubDate>Tue, 31 Dec 2024 12:13:18 +0530</pubDate>
-      <guid>https://codecrumbs.cloud/posts/important-key-points/</guid>
-      <description>An overview of important key points for the year.</description>
-    </item>
   </channel>
 </rss>
