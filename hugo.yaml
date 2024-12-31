@@ -1,6 +1,6 @@
 baseURL: https://codecrumbs.cloud/
 languageCode: en-us
-title: Code Crumbs
+title: M4nihere
 theme: ["PaperMod"]
 
 enableRobotsTXT: true
@@ -29,9 +29,9 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: false
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -43,14 +43,14 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://cdn-teams-slug.flaticon.com/freepik.jpg"
-    favicon16x16: "<link / abs url>"
+    favicon: "/images/favicon.png"
+    favicon16x16: "/images/favicon-16x16.png"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Code Crumbs"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -116,7 +116,7 @@ menu:
       name: Categories
       url: /categories/
       weight: 10
-    - identifier: ags
+    - identifier: tags
       name: Tags
       url: /tags/
       weight: 20
@@ -125,8 +125,8 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai
