@@ -1,6 +1,6 @@
 ---
 date: '2024-12-31T14:44:03+05:30'
-draft: true
+draft: false
 title: 'Setting Up a React Native Development Environment for Android on Ubuntu'
 tags: ["react native", "ubuntu", "android-sdk"]
 categories: ["ubuntu"]
