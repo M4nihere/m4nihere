@@ -12,6 +12,7 @@ minify:
   disableXML: true
   minifyOutput: true
 
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Code Crumbs
@@ -45,13 +46,13 @@ params:
     # disableFingerprinting: true
     favicon: "/images/favicon.png"
     favicon16x16: "/images/favicon-16x16.png"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon32x32: "/images/favicon.png"
+    apple_touch_icon: "/images/favicon.png"
+    safari_pinned_tab: "/images/favicon.png"
 
   label:
     text: "Code Crumbs"
-    icon: /apple-touch-icon.png
+    icon: /images/favicon.png
     iconHeight: 35
 
   # profile-mode
