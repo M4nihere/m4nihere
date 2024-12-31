@@ -2,6 +2,16 @@
 date: '2024-12-31T12:13:18+05:30'
 draft: false
 title: 'Important Key Points'
+tags: ["important", "key points", "summary"]
+categories: ["updates", "2024"]
+author: "Manish Kumar Mourya"
+summary: "An overview of important key points for the year."
+#image: "images/key-points.jpg"
+slug: "important-key-points"
+#aliases: ["/old-key-points"]
+weight: 1
+layout: "post"
+comments: true
 ---
 # Must Implemented
 
