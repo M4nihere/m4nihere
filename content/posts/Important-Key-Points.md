@@ -7,7 +7,7 @@ categories: ["updates", "2024"]
 author: "Manish Kumar Mourya"
 summary: "An overview of important key points for the year."
 #image: "images/key-points.jpg"
-slug: "important-key-points"
+#slug: "important-key-points.md"
 #aliases: ["/old-key-points"]
 weight: 1
 layout: "post"
