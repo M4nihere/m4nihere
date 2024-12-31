@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>M4nihere</title>
-    <link>https://codecrumbs.cloud/</link>
-    <description>Recent content on M4nihere</description>
+    <title>React Native on M4nihere</title>
+    <link>https://codecrumbs.cloud/tags/react-native/</link>
+    <description>Recent content in React Native on M4nihere</description>
     <image>
       <title>M4nihere</title>
       <url>https://codecrumbs.cloud/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2024 14:44:03 +0530</lastBuildDate>
-    <atom:link href="https://codecrumbs.cloud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://codecrumbs.cloud/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up a React Native Development Environment for Android on Ubuntu</title>
       <link>https://codecrumbs.cloud/posts/react_native/</link>
