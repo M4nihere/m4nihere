@@ -1,0 +1,28 @@
+# Hugo generated files and directories
+/public/
+/resources/_gen/
+
+# Temporary files and directories
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.swp
+
+# System files
+*.tmp
+*.~*
+
+# Node.js dependencies (if using npm/yarn for themes or build processes)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Hugo configuration backup files
+*.toml.bak
+*.yaml.bak
+*.json.bak
+
+# GitHub Actions specific
+.github/
+.hugo_build.lock
