@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Code Crumbs</title>
-    <link>http://192.168.1.117:1313/tags/</link>
+    <link>https://codecrumbs.cloud/tags/</link>
     <description>Recent content in Tags on Code Crumbs</description>
     <image>
       <title>Code Crumbs</title>
-      <url>http://192.168.1.117:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://192.168.1.117:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://codecrumbs.cloud/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://codecrumbs.cloud/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2024 12:13:18 +0530</lastBuildDate>
-    <atom:link href="http://192.168.1.117:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://codecrumbs.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Important</title>
-      <link>http://192.168.1.117:1313/tags/important/</link>
+      <link>https://codecrumbs.cloud/tags/important/</link>
       <pubDate>Tue, 31 Dec 2024 12:13:18 +0530</pubDate>
-      <guid>http://192.168.1.117:1313/tags/important/</guid>
+      <guid>https://codecrumbs.cloud/tags/important/</guid>
       <description></description>
     </item>
     <item>
       <title>Key Points</title>
-      <link>http://192.168.1.117:1313/tags/key-points/</link>
+      <link>https://codecrumbs.cloud/tags/key-points/</link>
       <pubDate>Tue, 31 Dec 2024 12:13:18 +0530</pubDate>
-      <guid>http://192.168.1.117:1313/tags/key-points/</guid>
+      <guid>https://codecrumbs.cloud/tags/key-points/</guid>
       <description></description>
     </item>
     <item>
       <title>Summary</title>
-      <link>http://192.168.1.117:1313/tags/summary/</link>
+      <link>https://codecrumbs.cloud/tags/summary/</link>
       <pubDate>Tue, 31 Dec 2024 12:13:18 +0530</pubDate>
-      <guid>http://192.168.1.117:1313/tags/summary/</guid>
+      <guid>https://codecrumbs.cloud/tags/summary/</guid>
       <description></description>
     </item>
   </channel>
