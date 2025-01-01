@@ -1,3 +1,15 @@
+---
+date: '2025-01-01T14:44:03+05:30'
+draft: false
+title: 'Setting Up a React Native Development Environment for Android on Ubuntu'
+tags: ["react native", "ubuntu", "android-sdk"]
+categories: ["ubuntu"]
+author: "Manish Kumar Mourya"
+summary: "Setting Up a React Native Development Environment for Android on Ubuntu."
+weight: 1
+layout: "post"
+comments: true
+---
 # Bare Metal vs Cloud VMs: A Comprehensive Comparison
 
 Cloud computing offers two primary infrastructure options: virtual machines (VMs) and bare metal servers. Each has unique strengths that make them suitable for different use cases.
