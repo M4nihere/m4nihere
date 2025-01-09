@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2025 12:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 06:54:34 +0000</lastBuildDate>
     <atom:link href="https://codecrumbs.cloud/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up a React Native Development Environment for Android on Ubuntu</title>
@@ -19,6 +19,13 @@
       <pubDate>Tue, 31 Dec 2024 14:44:03 +0530</pubDate>
       <guid>https://codecrumbs.cloud/posts/react_native/</guid>
       <description>Setting Up a React Native Development Environment for Android on Ubuntu.</description>
+    </item>
+    <item>
+      <title>Harsh</title>
+      <link>https://codecrumbs.cloud/posts/harsh/</link>
+      <pubDate>Thu, 09 Jan 2025 06:54:34 +0000</pubDate>
+      <guid>https://codecrumbs.cloud/posts/harsh/</guid>
+      <description>&lt;h1 id=&#34;hi-this-is-harsh&#34;&gt;Hi this is Harsh&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Monilith Vs MicroServices</title>
