@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on M4nihere</title>
-    <link>https://codecrumbs.cloud/categories/</link>
+    <link>https://blog.devopsinfo.in/categories/</link>
     <description>Recent content in Categories on M4nihere</description>
     <image>
       <title>M4nihere</title>
-      <url>https://codecrumbs.cloud/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://codecrumbs.cloud/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.devopsinfo.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.devopsinfo.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2024 14:44:03 +0530</lastBuildDate>
-    <atom:link href="https://codecrumbs.cloud/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.devopsinfo.in/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubuntu</title>
-      <link>https://codecrumbs.cloud/categories/ubuntu/</link>
+      <link>https://blog.devopsinfo.in/categories/ubuntu/</link>
       <pubDate>Tue, 31 Dec 2024 14:44:03 +0530</pubDate>
-      <guid>https://codecrumbs.cloud/categories/ubuntu/</guid>
+      <guid>https://blog.devopsinfo.in/categories/ubuntu/</guid>
       <description></description>
     </item>
   </channel>

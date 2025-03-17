@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on M4nihere</title>
-    <link>https://codecrumbs.cloud/posts/</link>
+    <link>https://blog.devopsinfo.in/posts/</link>
     <description>Recent content in Posts on M4nihere</description>
     <image>
       <title>M4nihere</title>
-      <url>https://codecrumbs.cloud/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://codecrumbs.cloud/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.devopsinfo.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.devopsinfo.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jan 2025 06:54:34 +0000</lastBuildDate>
-    <atom:link href="https://codecrumbs.cloud/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.devopsinfo.in/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up a React Native Development Environment for Android on Ubuntu</title>
-      <link>https://codecrumbs.cloud/posts/react_native/</link>
+      <link>https://blog.devopsinfo.in/posts/react_native/</link>
       <pubDate>Tue, 31 Dec 2024 14:44:03 +0530</pubDate>
-      <guid>https://codecrumbs.cloud/posts/react_native/</guid>
+      <guid>https://blog.devopsinfo.in/posts/react_native/</guid>
       <description>Setting Up a React Native Development Environment for Android on Ubuntu.</description>
     </item>
     <item>
       <title>Harsh</title>
-      <link>https://codecrumbs.cloud/posts/harsh/</link>
+      <link>https://blog.devopsinfo.in/posts/harsh/</link>
       <pubDate>Thu, 09 Jan 2025 06:54:34 +0000</pubDate>
-      <guid>https://codecrumbs.cloud/posts/harsh/</guid>
+      <guid>https://blog.devopsinfo.in/posts/harsh/</guid>
       <description>&lt;h1 id=&#34;hi-this-is-harsh&#34;&gt;Hi this is Harsh&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Monilith Vs MicroServices</title>
-      <link>https://codecrumbs.cloud/posts/monilithvsmicroservices/</link>
+      <link>https://blog.devopsinfo.in/posts/monilithvsmicroservices/</link>
       <pubDate>Wed, 08 Jan 2025 12:27:32 +0000</pubDate>
-      <guid>https://codecrumbs.cloud/posts/monilithvsmicroservices/</guid>
+      <guid>https://blog.devopsinfo.in/posts/monilithvsmicroservices/</guid>
       <description>&lt;h3 id=&#34;monolithic-vs-microservices-architecture-which-one-should-you-choose&#34;&gt;Monolithic vs Microservices Architecture: Which One Should You Choose?&lt;/h3&gt;
 &lt;p&gt;Hey friends! Welcome back to the blog. Today, we’re diving deep into a topic that sparks a lot of debates in the software engineering world: Monolithic vs Microservices Architecture. By the end of this post, you’ll have a clear understanding of the pros and cons of each, and more importantly, know which one to choose for your next project. Let’s jump in!&lt;/p&gt;</description>
     </item>

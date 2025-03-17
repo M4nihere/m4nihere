@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on M4nihere</title>
-    <link>https://codecrumbs.cloud/tags/</link>
+    <link>https://blog.devopsinfo.in/tags/</link>
     <description>Recent content in Tags on M4nihere</description>
     <image>
       <title>M4nihere</title>
-      <url>https://codecrumbs.cloud/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://codecrumbs.cloud/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.devopsinfo.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.devopsinfo.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2024 14:44:03 +0530</lastBuildDate>
-    <atom:link href="https://codecrumbs.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.devopsinfo.in/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Android-Sdk</title>
-      <link>https://codecrumbs.cloud/tags/android-sdk/</link>
+      <link>https://blog.devopsinfo.in/tags/android-sdk/</link>
       <pubDate>Tue, 31 Dec 2024 14:44:03 +0530</pubDate>
-      <guid>https://codecrumbs.cloud/tags/android-sdk/</guid>
+      <guid>https://blog.devopsinfo.in/tags/android-sdk/</guid>
       <description></description>
     </item>
     <item>
       <title>React Native</title>
-      <link>https://codecrumbs.cloud/tags/react-native/</link>
+      <link>https://blog.devopsinfo.in/tags/react-native/</link>
       <pubDate>Tue, 31 Dec 2024 14:44:03 +0530</pubDate>
-      <guid>https://codecrumbs.cloud/tags/react-native/</guid>
+      <guid>https://blog.devopsinfo.in/tags/react-native/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubuntu</title>
-      <link>https://codecrumbs.cloud/tags/ubuntu/</link>
+      <link>https://blog.devopsinfo.in/tags/ubuntu/</link>
       <pubDate>Tue, 31 Dec 2024 14:44:03 +0530</pubDate>
-      <guid>https://codecrumbs.cloud/tags/ubuntu/</guid>
+      <guid>https://blog.devopsinfo.in/tags/ubuntu/</guid>
       <description></description>
     </item>
   </channel>
